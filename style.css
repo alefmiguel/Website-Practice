@@ -1,8 +1,9 @@
 body {
-    /* margin: 0 auto !important; */
+    max-width: 400px !important;
+    margin: 20vh auto !important;
 }
 
-.qquma {
-    max-width: 70% !important;
-    margin: 20vh auto !important;
+button {
+    background-color: #ed7d3a !important;
+    border-color: rgb(97, 96, 96) !important;
 }
