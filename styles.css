@@ -80,3 +80,9 @@ body {
     margin-top: 7rem;
   }
 }
+
+.col-md-5 img {
+  position: relative;
+  overflow: hidden;
+  max-width: 140%;
+}
